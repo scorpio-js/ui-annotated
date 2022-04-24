@@ -1,0 +1,43 @@
+!!Scorpio
+##Annotated
+caption: Zoom Toolbar
+boxed: 200
+:A: Zoom in
+*:B: ( )
+:C: Zoom out
+*:D: ( )
+:E: Zoom onto selection
+*:F: ( )
+:G: Zoom to fit
+*:H: ( )
+:I: Anyone for\nTable Tennis?
+*:J: ( )
+:A: at: 158,90
+:B: at: 227,52
+:C: at: 212,118
+:D: at: 254,52
+:E: at: 299,152
+:F: at: 281,52
+:G: at: 361,120
+:H: at: 308,52
+:I: at: 418,76
+:J: at: 334,52
+:A:B:
+card:
+##Zoom in
+:C:D:
+card:
+##Zoom out
+:E:F:
+card:
+##Zoom to selection
+Select a region and click this button, and you will zoom to fit the selection to the full width of the Audacity track.
+:G:H:
+card:
+##Zoom to Fit
+The entire project will be zoomed to fit the width of the track on screen.
+:I:J:
+card:
+##Zoom Toggle
+Switch back and forth between two configured zoom levels.
+background: audacity_zoom.png

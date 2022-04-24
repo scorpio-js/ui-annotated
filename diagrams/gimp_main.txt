@@ -1,0 +1,65 @@
+!!Scorpio
+##Annotated
+caption: Gimp main screen
+:A: Toolbox
+*:B: ()
+:C: Colour Selector
+*:D: ()
+:E: Image Window
+*:F: ()
+:G: Tool Options
+*:H: ()
+:I: Image Thumbnails
+*:J: ()
+*:K: ()
+:L: Layers Dock
+*:M: ()
+:N: Brushes Dock
+*:O: ()
+:A: at: 28,100
+:B: at: 104,110
+:C: at: 59,169
+:D: at: 105,189
+:E: at: 378,10
+:F: at: 324,185
+:G: at: 49,337
+:H: at: 97,304
+:I: at: 213,7
+:J: at: 174,62
+:K: at: 222,73
+:L: at: 656,36
+:M: at: 571,64
+:N: at: 646,221
+:O: at: 575,243
+background: gimp_main_light_600px.png
+
+:A:B:
+card:
+## Toolbox
+Icon buttons used to select tools.
+:C:D:
+card:
+## Colour Selector
+Selects foreground and background colours
+:E:F:
+card:
+## Image Window
+The GIMP can open many image windows.  The images can be larger than the screen and either zoomed out to fit, or else scroll horizontally and vertically.
+:G:H:
+card:
+## Tool Options
+Shows and allows setting of options for the current tool.
+:I:J:K:
+card:
+## Image Thumbnails
+Small versions of the images to show which images you currently have open.
+:L:M:
+card:
+## Layers Dock
+When working with images you will usually be working with multiple layers.  The layers view in this dock lets you choose which layers to see and which layers to modify.
+:N:O:
+card:
+## Brushes Dock
+Sets options for the current brush.
+
+

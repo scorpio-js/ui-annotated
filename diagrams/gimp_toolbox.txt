@@ -16,7 +16,7 @@ boxed: 300
 *:L: [   ]
 :M: Select
 *:N: [   ]
-:O: Lassoo
+:O: Lasso
 *:P: [   ]
 :Q: Tsunami Tool
 *:R: [   ]
@@ -87,3 +87,89 @@ boxed: 300
 :AO: at: 434,127
 :AP: at: 314,104
 background: gimp_toolbox.png
+
+:A:B:
+card:
+## Foreground Colour
+Sets the colour for drawing the foreground (black initially)
+:C:D:
+card:
+## Background Colour
+Sets the colour for drawing the background (white initially)
+:E:F:
+card:
+## Colour Switcher
+Swaps background and foreground colours
+:G:H:
+card:
+## Select black & white
+Selects white as background and black as foreground.
+:I:J:
+card:
+## Magic Wand
+Select a region by similarity of colour
+:K:L:
+card:
+## Move
+To move a layer relative to the rest of the image
+:M:N:
+card:
+## Select
+To select part of an image of a chosen shape
+:O:P:
+card:
+## Lasso
+Free form selection of a region
+:Q:R:
+card:
+## Transform Tool
+Transform the image, artistic warping effects.
+:S:T:
+card:
+## Paint Bucket
+Fill an area with a colour, by colour similarity.
+:U:V:
+card:
+## Dropper
+Select the colour at a point
+:W:X:
+card:
+## Lettering
+Add text to an image
+:Y:Z:
+card:
+## Paths
+Create a path which you can later give width and colour to.
+:AA:AB:
+card:
+## Image Drop-off
+Drag and drop a file here to open it as an image in the GIMP.
+:AC:AD:
+card:
+## Crop
+Trim an image down to a chosen rectangular region.
+:AE:AF:
+card:
+## Transform
+Transform an image, rotation and perspective warping
+:AG:AH:
+card:
+## Zoom
+Enlarge or shrink your view of the image.  The underlying pixels of the image are unaffected.
+:AI:AJ:
+card:
+## Paintbrush
+For making marks on the image.
+:AK:AL:
+card:
+## Eraser
+For removing chosen pixels from a layer
+:AM:AN:
+card:
+## Smudge
+To blur some of the image along a path, as you move the mouse
+:AO:AP:
+card:
+## Clone
+Copy some pixels form one part of the image to another.
+
