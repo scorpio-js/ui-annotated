@@ -1,0 +1,89 @@
+!!Scorpio
+##Annotated
+caption: GIMP Toolbox
+boxed: 300
+:A: Foreground\nColour
+*:B: ( )
+:C: Background\nColour
+*:D: []
+:E: Colour\nSwitcher
+*:F: ( )
+:G: for\nblack & white
+*:H: ( )
+:I: " Magic\n  Wand  "
+*:J: [   ]
+:K: Move
+*:L: [   ]
+:M: Select
+*:N: [   ]
+:O: Lassoo
+*:P: [   ]
+:Q: Tsunami Tool
+*:R: [   ]
+:S: Paint Bucket
+*:T: [   ]
+:U: Dropper
+*:V: [   ]
+:W: Lettering
+*:X: [   ]
+:Y: Paths
+*:Z: [   ]
+:AA: Image Drop-off
+*:AB: ()
+:AC: Crop
+*:AD: [   ]
+:AE: Transform
+*:AF: [   ]
+:AG: Zoom
+*:AH: [   ]
+:AI: Paintbrush
+*:AJ: [   ]
+:AK: Eraser
+*:AL: [   ]
+:AM: Smudge
+*:AN: [   ]
+:AO: Clone
+*:AP: [   ]
+:A: at: 82,191
+:B: at: 269,164
+:C: at: 266,218
+:D: at: 284,170
+:E: at: 349,216
+:F: at: 291,154
+:G: at: 173,205
+:H: at: 263,177
+:I: at: 411,21
+:J: at: 288,78
+:K: at: 150,64
+:L: at: 206,78
+:M: at: 156,37
+:N: at: 234,78
+:O: at: 214,25
+:P: at: 260,78
+:Q: at: 99,102
+:R: at: 208,104
+:S: at: 78,71
+:T: at: 237,104
+:U: at: 151,165
+:V: at: 261,131
+:W: at: 87,151
+:X: at: 235,131
+:Y: at: 129,126
+:Z: at: 204,131
+:AA: at: 293,14
+:AB: at: 267,59
+:AC: at: 391,50
+:AD: at: 314,78
+:AE: at: 492,32
+:AF: at: 342,78
+:AG: at: 341,177
+:AH: at: 287,131
+:AI: at: 354,149
+:AJ: at: 261,104
+:AK: at: 447,158
+:AL: at: 288,104
+:AM: at: 411,80
+:AN: at: 341,104
+:AO: at: 434,127
+:AP: at: 314,104
+background: gimp_toolbox.png
