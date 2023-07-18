@@ -9,12 +9,9 @@ User Interface for Audacity)
 # \Pen GIMP
 User Interface for GIMP)
 ----
-#Jump( scorpio;index \Diamond Scorpio Sampler
-# \Diamond Sampler
-Opens the Scorpio Sampler repo, these samples may be the same as in the sampler repo, just at a different URL.)
 #Jump( sampler;index \Diamond Sampler
 # \Diamond Sampler
-Opens the Sampler repo)
+Opens the Sampler repo which has a couple of old examples of what Scorpio can do.)
 #Jump( maths;index \Diamond Maxwell
 # \Diamond Maths
 Opens the Maxwell repo)
